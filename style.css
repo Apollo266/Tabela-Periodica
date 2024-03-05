@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+body{
+    background-color: rgb(84, 114, 104);
+    text-align: center;
+    background-image: image();
+}
+button{
+    background-color: rgb(84, 121, 119);
+    width: 500px;
+    height: 100px;
+    font-size: large;
+}
+div{
+    height: 300px;
+}
